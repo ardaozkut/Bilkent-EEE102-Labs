@@ -1,0 +1,14 @@
+
+*** Running vivado
+    with args -log frame_buffer.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source frame_buffer.tcl
+
+
+
+****** Vivado v2022.1 (64-bit)
+  **** SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+  **** IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+
+source frame_buffer.tcl -notrace
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP frame_buffer, cache-ID = ddb1290fe3b88fc8.
+INFO: [Common 17-206] Exiting Vivado at Sun Dec 25 00:05:16 2022...
