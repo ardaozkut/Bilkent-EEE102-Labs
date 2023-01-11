@@ -1,4 +1,4 @@
-This file is a VIVADO Project file that you can download to include in your projects.
+This file is a VIVADO Project folder that you can download to include in your projects.
 
 The Pin configuration is as follows:
 
